@@ -931,3 +931,586 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.20-08.24.35:981][517]LogSlate: Window 'FirstPersonCharacter' being destroyed
 [2019.02.20-08.24.35:985][517]LogSlate: Window 'FirstPersonCharacter' being destroyed
 [2019.02.20-08.24.36:894][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.27.06:282][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.27.06:431][942]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.02.20-08.28.26:898][756]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.28.27:195][756]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacter32F17070455D68BE90649892E4268FAD.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.28.28:642][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.29.07:644][265]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.29.07:941][265]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacter824A888E429807B0553E06A2162A35DF.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.29.09:316][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.29.10:345][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.29.10:470][540]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.29.10:488][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.10:488][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.29.10:488][540]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:29:10 am)
+[2019.02.20-08.29.10:488][540]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.29.10:496][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007906s)
+[2019.02.20-08.29.10:496][540]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.29.10:497][540]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2019.02.20-08.29.10:497][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008546s)
+[2019.02.20-08.29.10:539][540]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.29.10:554][540]LogInit: FAudioDevice initialized.
+[2019.02.20-08.29.10:581][540]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.29.10:583][540]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.29.10
+[2019.02.20-08.29.10:583][540]LogWorld: Bringing up level for play took: 0.000950
+[2019.02.20-08.29.10:596][540]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0.821
+[2019.02.20-08.29.10:596][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.25:614][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.25:615][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.29.25:647][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.29.25:648][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.25:670][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.29.25:717][345]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.02.20-08.29.26:663][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.29.38:558][707]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.29.38:857][707]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacter8A812DFC41CF0074A94606A51A717B5E.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.29.39:171][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.29.39:259][739]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.29.39:273][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.39:273][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.29.39:273][739]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:29:39 am)
+[2019.02.20-08.29.39:274][739]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.29.39:282][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007905s)
+[2019.02.20-08.29.39:282][739]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.29.39:282][739]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2019.02.20-08.29.39:282][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008483s)
+[2019.02.20-08.29.39:326][739]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.29.39:338][739]LogInit: FAudioDevice initialized.
+[2019.02.20-08.29.39:370][739]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.29.39:372][739]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.29.39
+[2019.02.20-08.29.39:372][739]LogWorld: Bringing up level for play took: 0.000810
+[2019.02.20-08.29.39:385][739]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.39
+[2019.02.20-08.29.39:385][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.44:193][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.44:193][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.29.44:223][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.29.44:223][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.44:246][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.29.44:300][314]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.02.20-08.29.45:238][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.29.55:206][471]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.29.55:502][471]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacter4F6BF4844A054F2A07E5E5AAB5653BE9.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.29.55:984][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.29.56:054][519]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.29.56:068][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.29.56:068][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.29.56:068][519]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:29:56 am)
+[2019.02.20-08.29.56:068][519]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.29.56:076][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008081s)
+[2019.02.20-08.29.56:077][519]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.29.56:077][519]LogPlayLevel: PIE: World Init took: (0.000467s)
+[2019.02.20-08.29.56:077][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008647s)
+[2019.02.20-08.29.56:125][519]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.29.56:136][519]LogInit: FAudioDevice initialized.
+[2019.02.20-08.29.56:164][519]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.29.56:166][519]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.29.56
+[2019.02.20-08.29.56:166][519]LogWorld: Bringing up level for play took: 0.001015
+[2019.02.20-08.29.56:179][519]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0.404
+[2019.02.20-08.29.56:179][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.30.12:891][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.30.44:209][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.30.44:210][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.30.44:240][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.30.44:240][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.30.44:261][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.30.44:309][  2]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.02.20-08.31.09:221][724]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.31.09:521][724]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacter78A861BD4F0EACAE2B1B1DA4D64B682D.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.31.11:518][938]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.31.11:532][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.31.11:532][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.31.11:532][938]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:31:11 am)
+[2019.02.20-08.31.11:532][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.31.11:541][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008066s)
+[2019.02.20-08.31.11:541][938]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.31.11:541][938]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2019.02.20-08.31.11:541][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008666s)
+[2019.02.20-08.31.11:585][938]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.31.11:597][938]LogInit: FAudioDevice initialized.
+[2019.02.20-08.31.11:625][938]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.31.11:627][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.31.11
+[2019.02.20-08.31.11:627][938]LogWorld: Bringing up level for play took: 0.000802
+[2019.02.20-08.31.11:640][938]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.133
+[2019.02.20-08.31.11:640][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.31.47:015][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.31.51:217][552]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_SetActorRelativeRotation' [Element not found.]
+[2019.02.20-08.31.53:799][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.31.53:799][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.31.53:834][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.31.53:834][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.31.53:859][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.31.53:899][834]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.02.20-08.33.26:272][848]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.33.26:577][848]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacter063585FB48777EA15CEED08367F904F0.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.33.27:286][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.33.28:112][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.33.28:211][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.33.28:224][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.33.28:224][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.33.28:224][ 17]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:33:28 am)
+[2019.02.20-08.33.28:224][ 17]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.33.28:233][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008171s)
+[2019.02.20-08.33.28:233][ 17]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.33.28:233][ 17]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2019.02.20-08.33.28:233][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008792s)
+[2019.02.20-08.33.28:280][ 17]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.33.28:292][ 17]LogInit: FAudioDevice initialized.
+[2019.02.20-08.33.28:319][ 17]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.33.28:321][ 17]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.33.28
+[2019.02.20-08.33.28:321][ 17]LogWorld: Bringing up level for play took: 0.000895
+[2019.02.20-08.33.28:334][ 17]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0.563
+[2019.02.20-08.33.28:334][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.34.12:330][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.34.12:331][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.34.12:364][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.34.12:364][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.34.12:390][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.34.12:437][300]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.02.20-08.34.13:357][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.34.27:659][738]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.34.27:958][738]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacterE60FC1ED44852C5235D631A200E789EC.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.34.28:598][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.34.29:551][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.34.29:652][914]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.34.29:666][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.34.29:666][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.34.29:666][914]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:34:29 am)
+[2019.02.20-08.34.29:666][914]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.34.29:674][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007941s)
+[2019.02.20-08.34.29:674][914]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.34.29:674][914]LogPlayLevel: PIE: World Init took: (0.000434s)
+[2019.02.20-08.34.29:674][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008489s)
+[2019.02.20-08.34.29:719][914]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.34.29:732][914]LogInit: FAudioDevice initialized.
+[2019.02.20-08.34.29:762][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.34.29:764][914]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.34.29
+[2019.02.20-08.34.29:764][914]LogWorld: Bringing up level for play took: 0.000838
+[2019.02.20-08.34.29:777][914]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0.006
+[2019.02.20-08.34.29:777][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.35.45:125][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.35.51:504][431]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_SetActorRotation' [Element not found.]
+[2019.02.20-08.35.55:074][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.35.55:074][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.35.55:110][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.35.55:111][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.35.55:137][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.35.55:177][810]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.02.20-08.36.11:986][673]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.36.12:286][673]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacter21C22F9A4FAD58C2F0F56690297D2EDE.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.36.13:480][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.36.14:273][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.36.14:380][898]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.36.14:394][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.36.14:394][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.36.14:394][898]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:36:14 am)
+[2019.02.20-08.36.14:394][898]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.36.14:402][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008386s)
+[2019.02.20-08.36.14:403][898]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.36.14:403][898]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2019.02.20-08.36.14:403][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008955s)
+[2019.02.20-08.36.14:450][898]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.36.14:462][898]LogInit: FAudioDevice initialized.
+[2019.02.20-08.36.14:492][898]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.36.14:494][898]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.36.14
+[2019.02.20-08.36.14:494][898]LogWorld: Bringing up level for play took: 0.000865
+[2019.02.20-08.36.14:507][898]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0.737
+[2019.02.20-08.36.14:507][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.37.54:216][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.38.08:187][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.38.08:187][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.38.08:222][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.38.08:222][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.38.08:249][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.38.08:292][357]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.02.20-08.38.16:272][234]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.38.16:574][234]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacterF37B05324BCFEF252272B999BAE0A2DF.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.38.17:334][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.38.18:434][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.38.18:525][437]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.38.18:539][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.38.18:539][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.38.18:539][437]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:38:18 am)
+[2019.02.20-08.38.18:539][437]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.38.18:547][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007913s)
+[2019.02.20-08.38.18:548][437]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.38.18:548][437]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2019.02.20-08.38.18:548][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008620s)
+[2019.02.20-08.38.18:592][437]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.38.18:604][437]LogInit: FAudioDevice initialized.
+[2019.02.20-08.38.18:635][437]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.38.18:637][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.38.18
+[2019.02.20-08.38.18:637][437]LogWorld: Bringing up level for play took: 0.000831
+[2019.02.20-08.38.18:650][437]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0.882
+[2019.02.20-08.38.18:650][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.40.44:193][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.40.44:193][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.40.44:223][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.40.44:223][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.40.44:251][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.40.44:299][898]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.02.20-08.43.41:325][233]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BaseMap' took 0.024
+[2019.02.20-08.45.03:777][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.45.03:917][709]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/CORE_Blueprints/Item.Item
+[2019.02.20-08.45.38:952][398]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.02.20-08.45.39:261][398]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/FirstPersonCharacter31562A9042E43AC20AD4609328E1ECBF.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/FirstPersonBP/CORE_Blueprints/FirstPersonCharacter.uasset'
+[2019.02.20-08.45.41:360][625]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.20-08.45.41:374][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.45.41:374][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.20-08.45.41:374][625]PIE: New page: PIE session: BaseMap (21 Feb 2019 12:45:41 am)
+[2019.02.20-08.45.41:374][625]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.02.20-08.45.41:382][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007992s)
+[2019.02.20-08.45.41:383][625]LogAIModule: Creating AISystem for world BaseMap
+[2019.02.20-08.45.41:383][625]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2019.02.20-08.45.41:383][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.008601s)
+[2019.02.20-08.45.41:428][625]LogInit: XAudio2 using 'VZ27A (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.20-08.45.41:441][625]LogInit: FAudioDevice initialized.
+[2019.02.20-08.45.41:474][625]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.20-08.45.41:476][625]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.02.20-16.45.41
+[2019.02.20-08.45.41:476][625]LogWorld: Bringing up level for play took: 0.000831
+[2019.02.20-08.45.41:489][625]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.274
+[2019.02.20-08.45.41:489][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.48.32:996][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.48.32:996][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.48.33:034][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.20-08.48.33:034][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.02.20-08.48.33:064][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.20-08.48.33:103][198]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.02.20-08.48.36:528][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.20-08.48.36:535][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap" FILE="D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/Maps/BaseMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.20-08.48.36:707][608]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/BaseMap7A91659E4CCE007DB67541B7B0DDBAB6.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/Maps/BaseMap.umap'
+[2019.02.20-08.48.36:733][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap_BuiltData" FILE="D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/Maps/BaseMap_BuiltData.uasset" SILENT=true
+[2019.02.20-08.48.36:803][608]LogSavePackage: Moving 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Saved/BaseMap_BuiltData8160054744327D8A254D0C9E9ABE93DD.tmp' to 'D:/James Robson/Github/hikikomori/WalkingGame_TEMPLATE/Content/Maps/BaseMap_BuiltData.uasset'
+[2019.02.20-08.48.37:475][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.20-08.48.37:766][692]LogSlate: Window 'Item' being destroyed
+[2019.02.20-08.48.37:770][692]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.20-08.48.37:816][692]LogSlate: Window 'WalkingGame_TEMPLATE - Unreal Editor' being destroyed
+[2019.02.20-08.48.37:817][692]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.20-08.48.37:995][693]Cmd: QUIT_EDITOR
+[2019.02.20-08.48.38:537][693]LogExit: Preparing to exit.
+[2019.02.20-08.48.39:058][693]LogExit: Editor shut down
+[2019.02.20-08.48.39:058][693]LogExit: Transaction tracking system shut down
+[2019.02.20-08.48.39:286][693]LogExit: Object subsystem successfully closed.
+[2019.02.20-08.48.39:307][693]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.20-08.48.39:309][693]LogD3D11RHI: Shutdown
+[2019.02.20-08.48.39:309][693]LogD3D11RHI: CleanupD3DDevice
+[2019.02.20-08.48.39:310][693]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.20-08.48.39:327][693]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2019.02.20-08.48.39:327][693]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.02.20-08.48.39:327][693]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.02.20-08.48.39:327][693]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.02.20-08.48.39:327][693]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.02.20-08.48.39:327][693]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.20-08.48.39:328][693]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.20-08.48.39:329][693]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.20-08.48.40:125][693]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.20-08.48.40:126][693]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.20-08.48.40:126][693]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.20-08.48.40:126][693]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.20-08.48.40:126][693]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.20-08.48.40:126][693]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.20-08.48.40:126][693]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.20-08.48.40:126][693]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.20-08.48.40:126][693]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.02.20-08.48.40:191][693]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.02.20-08.48.40:194][693]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.02.20-08.48.40:194][693]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.02.20-08.48.40:194][693]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.02.20-08.48.40:195][693]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.02.20-08.48.40:197][693]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.20-08.48.40:279][693]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.20-08.48.40:280][693]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.20-08.48.40:280][693]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.20-08.48.40:282][693]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.20-08.48.40:282][693]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.20-08.48.40:282][693]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.20-08.48.40:282][693]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.20-08.48.40:282][693]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.20-08.48.40:282][693]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.20-08.48.40:282][693]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.20-08.48.40:282][693]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.20-08.48.40:283][693]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.20-08.48.40:384][693]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.20-08.48.40:485][693]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.20-08.48.40:486][693]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.20-08.48.40:487][693]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.20-08.48.40:487][693]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.20-08.48.40:487][693]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.20-08.48.40:487][693]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.20-08.48.40:487][693]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.20-08.48.40:487][693]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.20-08.48.40:487][693]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.20-08.48.40:488][693]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.20-08.48.40:494][693]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.20-08.48.40:496][693]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.20-08.48.40:507][693]LogDerivedDataCache: Shutdown
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.20-08.48.40:507][693]LogXGEController: Cleaning working directory: C:/Users/jrobson14/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.20-08.48.40:507][693]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.20-08.48.40:508][693]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.20-08.48.40:509][693]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.20-08.48.40:509][693]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.20-08.48.40:509][693]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.20-08.48.40:509][693]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.20-08.48.40:513][693]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.20-08.48.40:514][693]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.20-08.48.40:514][693]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.20-08.48.40:534][693]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.20-08.48.40:534][693]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.02.20-08.48.40:534][693]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F65D3AE-418A-27D3-575D-109CFEF8D518%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=2732f3c14b813d29ec74f898bb25424e%7C%7C6f6a4ca4-7adf-4eb4-8338-6a2c5dcdb275&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.20-08.48.40:534][693]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F65D3AE-418A-27D3-575D-109CFEF8D518%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=2732f3c14b813d29ec74f898bb25424e%7C%7C6f6a4ca4-7adf-4eb4-8338-6a2c5dcdb275&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.20-08.48.40:567][693]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.20-08.48.40:568][693]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.20-08.48.40:568][693]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.20-08.48.40:568][693]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.20-08.48.40:568][693]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.20-08.48.40:568][693]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.20-08.48.40:568][693]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.20-08.48.40:568][693]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.20-08.48.40:569][693]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.20-08.48.40:569][693]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.20-08.48.40:570][693]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.20-08.48.40:576][693]LogExit: Exiting.
+[2019.02.20-08.48.40:580][693]Log file closed, 02/20/19 16:48:40
