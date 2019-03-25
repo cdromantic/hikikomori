@@ -1,0 +1,786 @@
+﻿Log file open, 03/25/19 09:39:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WalkingGame_TEMPLATE
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279966
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.089s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Engine.ini]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Engine.ini]
+[2019.03.25-01.39.34:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Engine.ini]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Engine.ini]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.25-01.39.34:284][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.25-01.39.34:285][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Engine.ini]
+[2019.03.25-01.39.34:285][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Engine.ini]
+[2019.03.25-01.39.34:287][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.25-01.39.34:287][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.25-01.39.34:288][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.25-01.39.34:288][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.25-01.39.34:288][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.25-01.39.34:302][  0]LogHAL: Display: Platform has ~ 32 GB [34286804992 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.25-01.39.34:302][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.25-01.39.34:302][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.25-01.39.34:302][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:302][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.25-01.39.34:302][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.25-01.39.34:302][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Scalability.ini]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.25-01.39.34:303][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.25-01.39.34:304][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.25-01.39.34:304][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Config/Windows/Engine.ini]
+[2019.03.25-01.39.34:304][  0]LogInit: Computer: PER-L4-11W
+[2019.03.25-01.39.34:304][  0]LogInit: User: jvisaggio
+[2019.03.25-01.39.34:304][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.25-01.39.34:304][  0]LogInit: High frequency timer resolution =3.515628 MHz
+[2019.03.25-01.39.34:304][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.03.25-01.39.34:304][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.25-01.39.34:304][  0]LogMemory: Process Physical Memory: 102.54 MB used, 102.54 MB peak
+[2019.03.25-01.39.34:304][  0]LogMemory: Process Virtual Memory: 89.84 MB used, 89.84 MB peak
+[2019.03.25-01.39.34:304][  0]LogMemory: Physical Memory: 6950.03 MB used,  25748.41 MB free, 32698.45 MB total
+[2019.03.25-01.39.34:304][  0]LogMemory: Virtual Memory: 4646.62 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.03.25-01.39.34:325][  0]LogInit: Using OS detected language (en-US).
+[2019.03.25-01.39.34:325][  0]LogInit: Using OS detected locale (en-AU).
+[2019.03.25-01.39.34:326][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.25-01.39.34:641][  0]LogStreaming: Display: Took  0.315s to InitEngineTextLocalization.
+[2019.03.25-01.39.34:641][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.25-01.39.34:682][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.25-01.39.34:682][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.25-01.39.34:865][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.25-01.39.34:865][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.25-01.39.34:929][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.03.25-01.39.34:929][  0]LogD3D11RHI:       8088/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.25-01.39.34:931][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.25-01.39.34:931][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.25-01.39.34:931][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.25-01.39.34:937][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.25-01.39.34:937][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.25-01.39.34:937][  0]LogWindows: EnumDisplayDevices:
+[2019.03.25-01.39.34:937][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.03.25-01.39.34:938][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.25-01.39.34:938][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.25-01.39.34:938][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.25-01.39.34:939][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.25-01.39.34:939][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.03.25-01.39.34:939][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2019.03.25-01.39.34:939][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2019.03.25-01.39.34:939][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.03.25-01.39.34:977][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.25-01.39.34:994][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.25-01.39.35:340][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.25-01.39.35:351][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.25-01.39.35:363][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.25-01.39.35:374][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.25-01.39.35:386][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.25-01.39.35:397][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.25-01.39.35:409][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.25-01.39.35:421][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.25-01.39.35:426][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.25-01.39.35:487][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.25-01.39.35:543][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.25-01.39.35:543][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.25-01.39.35:562][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.25-01.39.35:562][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.25-01.39.35:572][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.25-01.39.35:582][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.25-01.39.35:592][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.25-01.39.35:602][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.25-01.39.35:638][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.25-01.39.35:638][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.25-01.39.35:638][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.25-01.39.35:697][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Intermediate/Shaders/WorkingDirectory/129828/).
+[2019.03.25-01.39.35:697][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jvisaggio/AppData/Local/Temp/UnrealShaderWorkingDir/31FF980645C4BE0FEA67AD853235166F/'.
+[2019.03.25-01.39.35:699][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.25-01.39.35:699][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.25-01.39.35:699][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.25-01.39.36:148][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.25-01.39.36:190][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/jvisaggio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.25-01.39.36:190][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jvisaggio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.25-01.39.36:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.25-01.39.36:190][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.25-01.39.36:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.25-01.39.36:190][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.25-01.39.36:203][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.25-01.39.36:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.25-01.39.36:203][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.25-01.39.36:214][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jvisaggio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.25-01.39.36:214][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.25-01.39.36:214][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.25-01.39.36:232][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.25-01.39.36:234][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.25-01.39.36:234][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.25-01.39.36:319][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2019.03.25-01.39.36:579][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.25-01.39.36:706][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.25-01.39.36:710][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.25-01.39.36:710][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.25-01.39.36:710][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.25-01.39.36:710][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.25-01.39.36:722][  0]LogNetVersion: WalkingGame_TEMPLATE 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1223769006)
+[2019.03.25-01.39.37:179][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.103079 seconds
+[2019.03.25-01.39.37:185][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.25-01.39.37:185][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.03.25-01.39.37:185][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.25-01.39.38:012][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.25-01.39.38:025][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.25-01.39.38:696][  0]SourceControl: Source control is disabled
+[2019.03.25-01.39.38:696][  0]SourceControl: Source control is disabled
+[2019.03.25-01.39.38:697][  0]SourceControl: Source control is disabled
+[2019.03.25-01.39.38:699][  0]SourceControl: Source control is disabled
+[2019.03.25-01.39.38:852][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.25-01.39.38:936][  0]LogOcInput: OculusInput pre-init called
+[2019.03.25-01.39.39:062][  0]LogEngine: Initializing Engine...
+[2019.03.25-01.39.39:062][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.25-01.39.39:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.25-01.39.39:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.25-01.39.39:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.25-01.39.39:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.25-01.39.39:249][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.25-01.39.39:262][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.25-01.39.39:290][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-01.39.39:309][  0]LogInit: FAudioDevice initialized.
+[2019.03.25-01.39.39:309][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.25-01.39.39:382][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/jvisaggio/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.25-01.39.39:392][  0]LogInit: Texture streaming: Enabled
+[2019.03.25-01.39.39:409][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.25-01.39.39:423][  0]LogInit: Transaction tracking system initialized
+[2019.03.25-01.39.39:448][  0]BlueprintLog: New page: Editor Load
+[2019.03.25-01.39.39:527][  0]LocalizationService: Localization service is disabled
+[2019.03.25-01.39.39:910][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Content/' took 0.02s
+[2019.03.25-01.39.39:910][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.25-01.39.39:910][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.25-01.39.39:910][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.25-01.39.39:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.25-01.39.39:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.25-01.39.39:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.25-01.39.39:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.25-01.39.40:039][  0]SourceControl: Source control is disabled
+[2019.03.25-01.39.40:039][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Content/Maps/BaseMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.25-01.39.40:040][  0]LightingResults: New page: Lighting Build
+[2019.03.25-01.39.40:043][  0]MapCheck: New page: Map Check
+[2019.03.25-01.39.40:043][  0]LightingResults: New page: Lighting Build
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X512)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: ExportPainted_specular_tga (AutoDXT, 2048X2048)
+[2019.03.25-01.39.40:477][  0]LogTexture: Display: Building textures: ExportPainted_roughness_tga (AutoDXT, 2048X2048)
+[2019.03.25-01.39.40:477][  0]LogStaticMesh: Building static mesh ChestScaledDown...
+[2019.03.25-01.39.40:635][  0]LogTexture: Display: Building textures: ExportPainted_normal_tga (BC5, 2048X2048)
+[2019.03.25-01.39.40:635][  0]LogStaticMesh: Built static mesh [0.16s] /Game/ChestScaledDown.ChestScaledDown
+[2019.03.25-01.39.40:685][  0]LogStaticMesh: Building static mesh FinalExport...
+[2019.03.25-01.39.40:836][  0]LogTexture: Display: Building textures: ExportPainted_diffuse_tga (AutoDXT, 2048X2048)
+[2019.03.25-01.39.40:836][  0]LogStaticMesh: Built static mesh [0.15s] /Game/FinalExport.FinalExport
+[2019.03.25-01.39.40:865][  0]LogMaterial: Display: Missing cached shader map for material wire_086086086, compiling. 
+[2019.03.25-01.39.42:223][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.25-01.39.42:223][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.25-01.39.42:223][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.25-01.39.42:223][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.25-01.39.42:960][  0]LogMaterial: Display: Missing cached shader map for material ChestMat, compiling. 
+[2019.03.25-01.39.43:070][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.25-01.39.43:070][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.25-01.39.43:070][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.25-01.39.43:078][  0]LogAIModule: Creating AISystem for world BaseMap
+[2019.03.25-01.39.43:087][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.25-01.39.43:115][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.25-01.39.43:115][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2019.03.25-01.39.43:115][  0]LogFileHelpers: Loading map 'BaseMap' took 3.076
+[2019.03.25-01.39.43:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-01.39.43:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-01.39.43:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-01.39.43:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-01.39.43:287][  0]LogCollectionManager: Loaded 0 collections in 0.002705 seconds
+[2019.03.25-01.39.43:317][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Collections/' took 0.01s
+[2019.03.25-01.39.43:317][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Content/Developers/jvisaggio/Collections/' took 0.01s
+[2019.03.25-01.39.43:317][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Content/Collections/' took 0.00s
+[2019.03.25-01.39.43:317][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.25-01.39.43:327][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2651 classes and 620 folders.
+[2019.03.25-01.39.43:338][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.25-01.39.43:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.25-01.39.43:423][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.25-01.39.43:431][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.25-01.39.43:455][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.25-01.39.43:458][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.25-01.39.43:465][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.25-01.39.43:571][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.03.25-01.39.43:624][  0]LogContentBrowser: Verbose: The majority of assets in the view are of type: Texture2D
+[2019.03.25-01.39.43:769][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.25-01.39.43:769][  0]LogLoad: (Engine Initialization) Total time: 11.50 seconds
+[2019.03.25-01.39.43:769][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.25-01.39.43:779][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.25-01.39.43:831][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.25-01.39.43:865][  0]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2019.03.25-01.39.43:898][  1]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.25-01.39.44:089][  3]LogAssetRegistry: Asset discovery search completed in 7.7924 seconds
+[2019.03.25-01.39.44:091][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.25-01.39.44:091][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2019.03.25-01.39.46:360][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-01.39.46:435][260]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.25-01.39.46:447][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-01.39.46:447][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.25-01.39.46:448][260]PIE: New page: PIE session: BaseMap (25 Mar 2019 5:39:46 pm)
+[2019.03.25-01.39.46:460][260]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.03.25-01.39.46:468][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008425s)
+[2019.03.25-01.39.46:469][260]LogAIModule: Creating AISystem for world BaseMap
+[2019.03.25-01.39.46:469][260]LogPlayLevel: PIE: World Init took: (0.000463s)
+[2019.03.25-01.39.46:469][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.009094s)
+[2019.03.25-01.39.46:509][260]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-01.39.46:521][260]LogInit: FAudioDevice initialized.
+[2019.03.25-01.39.46:562][260]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.25-01.39.46:564][260]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.03.25-09.39.46
+[2019.03.25-01.39.46:564][260]LogWorld: Bringing up level for play took: 0.001025
+[2019.03.25-01.39.46:581][260]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.03.25-01.39.46:583][260]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.072
+[2019.03.25-01.39.46:583][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-01.40.30:243][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-01.40.30:244][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-01.40.30:272][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.25-01.40.30:272][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-01.40.30:294][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-01.40.30:348][487]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.03.25-01.44.34:963][595]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-01.44.35:289][596]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-01.50.18:650][620]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.25-02.03.05:045][907]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{61bec8ea-d657-4190-8695-698a1e6754c9} was removed. Shutting down audio device.
+[2019.03.25-02.03.05:045][907]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-02.12.00:276][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-02.12.00:384][536]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.25-02.12.00:396][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-02.12.00:396][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.25-02.12.00:396][536]PIE: New page: PIE session: BaseMap (25 Mar 2019 6:12:00 pm)
+[2019.03.25-02.12.00:396][536]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.03.25-02.12.00:424][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028105s)
+[2019.03.25-02.12.00:425][536]LogAIModule: Creating AISystem for world BaseMap
+[2019.03.25-02.12.00:425][536]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2019.03.25-02.12.00:425][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.028806s)
+[2019.03.25-02.12.00:466][536]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-02.12.00:478][536]LogInit: FAudioDevice initialized.
+[2019.03.25-02.12.00:508][536]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.25-02.12.00:510][536]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.03.25-10.12.00
+[2019.03.25-02.12.00:510][536]LogWorld: Bringing up level for play took: 0.001065
+[2019.03.25-02.12.00:523][536]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.05
+[2019.03.25-02.12.00:524][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-02.12.23:390][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-02.12.23:390][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-02.12.23:424][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.25-02.12.23:424][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-02.12.23:446][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-02.12.23:491][281]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.03.25-02.21.32:851][549]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-02.21.33:139][550]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-03.17.40:877][610]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.25-03.17.40:877][610]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.25-03.17.44:578][ 27]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.25-03.17.45:082][ 81]Cmd: EDIT PASTE
+[2019.03.25-03.17.53:136][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.18.28:340][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.18.28:398][818]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.25-03.18.28:414][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.18.28:414][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.25-03.18.28:414][818]PIE: New page: PIE session: BaseMap (25 Mar 2019 7:18:28 pm)
+[2019.03.25-03.18.28:414][818]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.03.25-03.18.28:431][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016784s)
+[2019.03.25-03.18.28:432][818]LogAIModule: Creating AISystem for world BaseMap
+[2019.03.25-03.18.28:432][818]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.03.25-03.18.28:432][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.017595s)
+[2019.03.25-03.18.28:489][818]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-03.18.28:504][818]LogInit: FAudioDevice initialized.
+[2019.03.25-03.18.28:534][818]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.25-03.18.28:536][818]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.03.25-11.18.28
+[2019.03.25-03.18.28:536][818]LogWorld: Bringing up level for play took: 0.001440
+[2019.03.25-03.18.28:549][818]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0.096
+[2019.03.25-03.18.28:550][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.18.37:498][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.18.37:499][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.18.37:531][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.25-03.18.37:531][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.18.37:554][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.18.37:598][890]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.03.25-03.18.47:372][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.18.54:229][853]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.03.25-03.18.54:248][853]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.25-03.19.03:420][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.19.03:478][945]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.25-03.19.03:494][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.19.03:494][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.25-03.19.03:494][945]PIE: New page: PIE session: BaseMap (25 Mar 2019 7:19:03 pm)
+[2019.03.25-03.19.03:495][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.03.25-03.19.03:511][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015834s)
+[2019.03.25-03.19.03:511][945]LogAIModule: Creating AISystem for world BaseMap
+[2019.03.25-03.19.03:511][945]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2019.03.25-03.19.03:511][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.016669s)
+[2019.03.25-03.19.03:568][945]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-03.19.03:581][945]LogInit: FAudioDevice initialized.
+[2019.03.25-03.19.03:616][945]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.25-03.19.03:618][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.03.25-11.19.03
+[2019.03.25-03.19.03:618][945]LogWorld: Bringing up level for play took: 0.001419
+[2019.03.25-03.19.03:631][945]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.821
+[2019.03.25-03.19.03:632][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.19.05:179][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.19.05:179][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.19.05:215][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.25-03.19.05:215][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.19.05:236][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.19.05:283][131]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.03.25-03.19.57:610][968]LogSavePackage: Moving '../../../../../../Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/BaseMap_Auto15BC304F6471E6A727CD6C8AE15A58DC0.tmp' to '../../../../../../Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Autosaves/Game/Maps/BaseMap_Auto1.umap'
+[2019.03.25-03.19.57:616][968]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BaseMap' took 0.254
+[2019.03.25-03.19.57:616][968]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.254
+[2019.03.25-03.37.48:145][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.37.48:228][362]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.25-03.37.48:244][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.37.48:244][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.25-03.37.48:244][362]PIE: New page: PIE session: BaseMap (25 Mar 2019 7:37:48 pm)
+[2019.03.25-03.37.48:245][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.03.25-03.37.48:262][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017084s)
+[2019.03.25-03.37.48:262][362]LogAIModule: Creating AISystem for world BaseMap
+[2019.03.25-03.37.48:262][362]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.03.25-03.37.48:262][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.017819s)
+[2019.03.25-03.37.48:318][362]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-03.37.48:333][362]LogInit: FAudioDevice initialized.
+[2019.03.25-03.37.48:368][362]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.25-03.37.48:369][362]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.03.25-11.37.48
+[2019.03.25-03.37.48:370][362]LogWorld: Bringing up level for play took: 0.001364
+[2019.03.25-03.37.48:383][362]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.043
+[2019.03.25-03.37.48:384][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.38.01:967][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.38.01:968][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.38.02:005][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.25-03.38.02:005][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.38.02:028][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.38.02:068][991]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.03.25-03.38.03:984][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.39.15:170][676]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.25-03.39.16:418][820]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.03.25-03.39.17:325][925]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.25-03.39.18:143][  0]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.25-03.39.19:629][172]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.03.25-03.39.21:924][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.39.22:015][453]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.25-03.39.22:031][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.39.22:031][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.25-03.39.22:031][453]PIE: New page: PIE session: BaseMap (25 Mar 2019 7:39:22 pm)
+[2019.03.25-03.39.22:031][453]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.03.25-03.39.22:048][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016496s)
+[2019.03.25-03.39.22:048][453]LogAIModule: Creating AISystem for world BaseMap
+[2019.03.25-03.39.22:048][453]LogPlayLevel: PIE: World Init took: (0.000463s)
+[2019.03.25-03.39.22:048][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.017095s)
+[2019.03.25-03.39.22:107][453]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-03.39.22:122][453]LogInit: FAudioDevice initialized.
+[2019.03.25-03.39.22:152][453]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.25-03.39.22:154][453]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.03.25-11.39.22
+[2019.03.25-03.39.22:154][453]LogWorld: Bringing up level for play took: 0.001544
+[2019.03.25-03.39.22:167][453]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.257
+[2019.03.25-03.39.22:167][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.39.35:644][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.39.35:645][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.39.35:676][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.25-03.39.35:676][ 62]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.39.35:698][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.39.35:746][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.03.25-03.39.37:663][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.39.37:771][309]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.25-03.39.37:784][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.39.37:784][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.25-03.39.37:785][309]PIE: New page: PIE session: BaseMap (25 Mar 2019 7:39:37 pm)
+[2019.03.25-03.39.37:785][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2019.03.25-03.39.37:802][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017036s)
+[2019.03.25-03.39.37:802][309]LogAIModule: Creating AISystem for world BaseMap
+[2019.03.25-03.39.37:802][309]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2019.03.25-03.39.37:802][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.017692s)
+[2019.03.25-03.39.37:857][309]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.25-03.39.37:871][309]LogInit: FAudioDevice initialized.
+[2019.03.25-03.39.37:904][309]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.03.25-03.39.37:906][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2019.03.25-11.39.37
+[2019.03.25-03.39.37:906][309]LogWorld: Bringing up level for play took: 0.001445
+[2019.03.25-03.39.37:919][309]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0.505
+[2019.03.25-03.39.37:920][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.42.22:045][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.42.22:045][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.42.22:105][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.25-03.42.22:106][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2019.03.25-03.42.22:135][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.25-03.42.22:156][593]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.03.25-03.42.23:495][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-03.42.24:587][881]LogContentBrowser: Verbose: The majority of assets in the view are of type: Texture2D
+[2019.03.25-03.43.09:721][382]LogSavePackage: Moving '../../../../../../Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/BaseMap_Auto2FCDF5E32455B2436FA9B62BEFAAE3F8F.tmp' to '../../../../../../Users/jvisaggio/Documents/GitHub/hikikomori/WalkingGame_TEMPLATE/Saved/Autosaves/Game/Maps/BaseMap_Auto2.umap'
+[2019.03.25-03.43.09:726][382]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BaseMap' took 0.216
+[2019.03.25-03.43.09:726][382]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
