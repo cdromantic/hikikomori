@@ -1660,3 +1660,648 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.03-05.13.40:760][428]LogEditorTransaction: Undo Move Actors
 [2019.04.03-05.13.56:128][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.04.03-05.13.57:655][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.15.41:480][896]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.03-05.15.44:130][944]SourceControl: Source control is disabled
+[2019.04.03-05.15.44:130][944]LogSlate: Window 'Source Control Login' being destroyed
+[2019.04.03-05.15.47:438][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.15.47:587][ 12]MapCheck: New page: Map Check
+[2019.04.03-05.15.47:682][ 12]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.03-05.15.47:683][ 12]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.03-05.15.47:965][ 12]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.03-05.15.47:984][ 12]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.04.03-05.15.47:994][ 12]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.03-05.15.47:994][ 12]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.03-05.15.47:994][ 12]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ChestMat, compiling. 
+[2019.04.03-05.15.48:015][ 12]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.03-05.15.48:015][ 12]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.04.03-05.15.48:035][ 12]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2019.04.03-05.15.49:015][ 12]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.03-05.15.49:015][ 12]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.03-05.15.49:015][ 12]TextureStreamingBuild: Display: Compiling optional shaders took 1.055 seconds.
+[2019.04.03-05.15.49:031][ 12]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2019.04.03-05.15.49:080][ 12]TextureStreamingBuild: Display: Build Texture Streaming took 0.049 seconds.
+[2019.04.03-05.15.49:112][ 12]LightingResults: New page: Lighting Build - 3 Apr 2019 9:15:49 pm
+[2019.04.03-05.15.49:154][ 12]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.03-05.15.49:350][ 12]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.03-05.15.49:385][ 12]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.03-05.15.50:411][ 12]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.03-05.15.50:411][ 12]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9288
+[2019.04.03-05.15.58:616][ 12]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.03-05.15.58:616][ 12]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.03-05.15.58:617][ 12]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.03-05.15.58:617][ 12]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.03-05.15.58:617][ 12]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.03-05.15.59:222][ 12]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.03-05.15.59:222][ 12]MapCheck: New page: BaseMap - 3 Apr 2019 9:15:59 pm
+[2019.04.03-05.15.59:223][ 12]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.04.03-05.15.59:226][ 12]MapCheck: Warning: Bathroom_Block_out_Box001_32 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box001_32 Static mesh actor Bathroom_Block_out_Box001_32 has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box003_34 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box003_34 Static mesh actor Bathroom_Block_out_Box003_34 has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box004_36 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box004_36 Static mesh actor Bathroom_Block_out_Box004_36 has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box005_38 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box005_38 Static mesh actor Bathroom_Block_out_Box005_38 has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box006_40 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:227][ 12]MapCheck: Warning: Bathroom_Block_out_Box006_40 Static mesh actor Bathroom_Block_out_Box006_40 has NULL StaticMesh property 
+[2019.04.03-05.15.59:228][ 12]MapCheck: Warning: Bathroom_Block_out_Box007_42 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:228][ 12]MapCheck: Warning: Bathroom_Block_out_Box007_42 Static mesh actor Bathroom_Block_out_Box007_42 has NULL StaticMesh property 
+[2019.04.03-05.15.59:228][ 12]MapCheck: Warning: Bathroom_Block_out_Box008_44 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:228][ 12]MapCheck: Warning: Bathroom_Block_out_Box008_44 Static mesh actor Bathroom_Block_out_Box008_44 has NULL StaticMesh property 
+[2019.04.03-05.15.59:228][ 12]MapCheck: Warning: Bathroom_Block_out_Box009_46 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:228][ 12]MapCheck: Warning: Bathroom_Block_out_Box009_46 Static mesh actor Bathroom_Block_out_Box009_46 has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Box010_48 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Box010_48 Static mesh actor Bathroom_Block_out_Box010_48 has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Box011_50 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Box011_50 Static mesh actor Bathroom_Block_out_Box011_50 has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Box012_52 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Box012_52 Static mesh actor Bathroom_Block_out_Box012_52 has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder001_54 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder001_54 Static mesh actor Bathroom_Block_out_Cylinder001_54 has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder002_56 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:229][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder002_56 Static mesh actor Bathroom_Block_out_Cylinder002_56 has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder003_58 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder003_58 Static mesh actor Bathroom_Block_out_Cylinder003_58 has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder004_60 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder004_60 Static mesh actor Bathroom_Block_out_Cylinder004_60 has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder005_62 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder005_62 Static mesh actor Bathroom_Block_out_Cylinder005_62 has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder006_64 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder006_64 Static mesh actor Bathroom_Block_out_Cylinder006_64 has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder007_66 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:230][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder007_66 Static mesh actor Bathroom_Block_out_Cylinder007_66 has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder008_68 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder008_68 Static mesh actor Bathroom_Block_out_Cylinder008_68 has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder009_70 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder009_70 Static mesh actor Bathroom_Block_out_Cylinder009_70 has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder010_72 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder010_72 Static mesh actor Bathroom_Block_out_Cylinder010_72 has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder011_74 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder011_74 Static mesh actor Bathroom_Block_out_Cylinder011_74 has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder012_76 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:231][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder012_76 Static mesh actor Bathroom_Block_out_Cylinder012_76 has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder013_78 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder013_78 Static mesh actor Bathroom_Block_out_Cylinder013_78 has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder014_80 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder014_80 Static mesh actor Bathroom_Block_out_Cylinder014_80 has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder015_82 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder015_82 Static mesh actor Bathroom_Block_out_Cylinder015_82 has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder016_84 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Cylinder016_84 Static mesh actor Bathroom_Block_out_Cylinder016_84 has NULL StaticMesh property 
+[2019.04.03-05.15.59:232][ 12]MapCheck: Warning: Bathroom_Block_out_Loft001_86 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Bathroom_Block_out_Loft001_86 Static mesh actor Bathroom_Block_out_Loft001_86 has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Bathroom_Block_out_Plane002_90 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Bathroom_Block_out_Plane002_90 Static mesh actor Bathroom_Block_out_Plane002_90 has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Bathroom_Block_out_Plane003_92 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Bathroom_Block_out_Plane003_92 Static mesh actor Bathroom_Block_out_Plane003_92 has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Kettle_low_Handle_low_8 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Kettle_low_Handle_low_8 Static mesh actor Kettle_low_Handle_low_8 has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Kettle_low_Kettle_low_10 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:233][ 12]MapCheck: Warning: Kettle_low_Kettle_low_10 Static mesh actor Kettle_low_Kettle_low_10 has NULL StaticMesh property 
+[2019.04.03-05.15.59:234][ 12]MapCheck: Warning: Kettle_low_Lid_Handle_low_12 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:234][ 12]MapCheck: Warning: Kettle_low_Lid_Handle_low_12 Static mesh actor Kettle_low_Lid_Handle_low_12 has NULL StaticMesh property 
+[2019.04.03-05.15.59:234][ 12]MapCheck: Warning: Kettle_low_Lid_low_14 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:234][ 12]MapCheck: Warning: Kettle_low_Lid_low_14 Static mesh actor Kettle_low_Lid_low_14 has NULL StaticMesh property 
+[2019.04.03-05.15.59:234][ 12]MapCheck: Warning: Kettle_low_Spout_low_16 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:234][ 12]MapCheck: Warning: Kettle_low_Spout_low_16 Static mesh actor Kettle_low_Spout_low_16 has NULL StaticMesh property 
+[2019.04.03-05.15.59:263][ 12]MapCheck: Warning: Bath_low_8 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.15.59:263][ 12]MapCheck: Warning: Bath_low_8 Static mesh actor Bath_low_8 has NULL StaticMesh property 
+[2019.04.03-05.15.59:265][ 12]MapCheck: Map check complete: 1 Error(s), 72 Warning(s), took 42.318ms to complete.
+[2019.04.03-05.15.59:289][ 12]LogEditorBuildUtils: Build time 0:11
+[2019.04.03-05.15.59:303][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.15.59:452][ 13]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ChestMat, compiling. 
+[2019.04.03-05.15.59:477][ 13]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.03-05.15.59:477][ 13]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ChestMat, compiling. 
+[2019.04.03-05.15.59:515][ 13]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.03-05.16.07:998][129]Job is a success!
+[2019.04.03-05.16.08:302][130]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.04.03-05.16.08:302][130]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.03-05.16.08:302][130]LogVolumetricLightmapImport:      BrickData 120x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.04.03-05.16.08:302][130]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.03-05.16.08:302][130]LogVolumetricLightmapImport:          0: 4.2% covering 100.0% of volume
+[2019.04.03-05.16.08:302][130]LogVolumetricLightmapImport:          1: 25.0% covering 9.4% of volume
+[2019.04.03-05.16.08:302][130]LogVolumetricLightmapImport:          2: 70.8% covering 0.4% of volume
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.04.03-05.16.09:138][130]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.04.03-05.16.09:227][130]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X64)
+[2019.04.03-05.16.09:227][130]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 32X32)
+[2019.04.03-05.16.09:227][130]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2019.04.03-05.16.09:261][130]Lightmass on S1RBRAD3TH-MSP: 6.97 sec total, 253 ms importing, 27 ms setup, 886 ms photons, 5.79 sec processing, 0 ms extra exporting [191/191 mappings]. Threads: 23.1 sec total, 11.8 sec processing.
+[2019.04.03-05.16.09:323][130]LogStaticLightingSystem: Illumination: 20.0 sec (719 ms encoding lightmaps, 81 ms encoding shadowmaps)
+[2019.04.03-05.16.09:324][130]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (0.7 MB streaming, 2.7 MB non-streaming), 6 textures
+[2019.04.03-05.16.09:324][130]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.1 MB streaming, 1.3 MB non-streaming), 3 textures
+[2019.04.03-05.16.09:632][130]DumpUnbuiltLightIteractions
+[2019.04.03-05.16.09:633][130]Lights with unbuilt interactions: 0
+[2019.04.03-05.16.09:633][130]
+[2019.04.03-05.16.09:633][130]Primitives with unbuilt interactions: 0
+[2019.04.03-05.16.09:647][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.16.10:578][131]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.03-05.16.10:578][131]MapCheck: New page: BaseMap - 3 Apr 2019 9:16:10 pm
+[2019.04.03-05.16.10:586][131]MapCheck: Warning: Bathroom_Block_out_Box001_32 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:586][131]MapCheck: Warning: Bathroom_Block_out_Box001_32 Static mesh actor Bathroom_Block_out_Box001_32 has NULL StaticMesh property 
+[2019.04.03-05.16.10:586][131]MapCheck: Warning: Bathroom_Block_out_Box003_34 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:586][131]MapCheck: Warning: Bathroom_Block_out_Box003_34 Static mesh actor Bathroom_Block_out_Box003_34 has NULL StaticMesh property 
+[2019.04.03-05.16.10:587][131]MapCheck: Warning: Bathroom_Block_out_Box004_36 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:587][131]MapCheck: Warning: Bathroom_Block_out_Box004_36 Static mesh actor Bathroom_Block_out_Box004_36 has NULL StaticMesh property 
+[2019.04.03-05.16.10:587][131]MapCheck: Warning: Bathroom_Block_out_Box005_38 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:587][131]MapCheck: Warning: Bathroom_Block_out_Box005_38 Static mesh actor Bathroom_Block_out_Box005_38 has NULL StaticMesh property 
+[2019.04.03-05.16.10:587][131]MapCheck: Warning: Bathroom_Block_out_Box006_40 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:587][131]MapCheck: Warning: Bathroom_Block_out_Box006_40 Static mesh actor Bathroom_Block_out_Box006_40 has NULL StaticMesh property 
+[2019.04.03-05.16.10:589][131]MapCheck: Warning: Bathroom_Block_out_Box007_42 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:589][131]MapCheck: Warning: Bathroom_Block_out_Box007_42 Static mesh actor Bathroom_Block_out_Box007_42 has NULL StaticMesh property 
+[2019.04.03-05.16.10:590][131]MapCheck: Warning: Bathroom_Block_out_Box008_44 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:590][131]MapCheck: Warning: Bathroom_Block_out_Box008_44 Static mesh actor Bathroom_Block_out_Box008_44 has NULL StaticMesh property 
+[2019.04.03-05.16.10:590][131]MapCheck: Warning: Bathroom_Block_out_Box009_46 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:590][131]MapCheck: Warning: Bathroom_Block_out_Box009_46 Static mesh actor Bathroom_Block_out_Box009_46 has NULL StaticMesh property 
+[2019.04.03-05.16.10:591][131]MapCheck: Warning: Bathroom_Block_out_Box010_48 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:591][131]MapCheck: Warning: Bathroom_Block_out_Box010_48 Static mesh actor Bathroom_Block_out_Box010_48 has NULL StaticMesh property 
+[2019.04.03-05.16.10:591][131]MapCheck: Warning: Bathroom_Block_out_Box011_50 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:591][131]MapCheck: Warning: Bathroom_Block_out_Box011_50 Static mesh actor Bathroom_Block_out_Box011_50 has NULL StaticMesh property 
+[2019.04.03-05.16.10:592][131]MapCheck: Warning: Bathroom_Block_out_Box012_52 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:592][131]MapCheck: Warning: Bathroom_Block_out_Box012_52 Static mesh actor Bathroom_Block_out_Box012_52 has NULL StaticMesh property 
+[2019.04.03-05.16.10:592][131]MapCheck: Warning: Bathroom_Block_out_Cylinder001_54 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:592][131]MapCheck: Warning: Bathroom_Block_out_Cylinder001_54 Static mesh actor Bathroom_Block_out_Cylinder001_54 has NULL StaticMesh property 
+[2019.04.03-05.16.10:593][131]MapCheck: Warning: Bathroom_Block_out_Cylinder002_56 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:593][131]MapCheck: Warning: Bathroom_Block_out_Cylinder002_56 Static mesh actor Bathroom_Block_out_Cylinder002_56 has NULL StaticMesh property 
+[2019.04.03-05.16.10:593][131]MapCheck: Warning: Bathroom_Block_out_Cylinder003_58 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:593][131]MapCheck: Warning: Bathroom_Block_out_Cylinder003_58 Static mesh actor Bathroom_Block_out_Cylinder003_58 has NULL StaticMesh property 
+[2019.04.03-05.16.10:593][131]MapCheck: Warning: Bathroom_Block_out_Cylinder004_60 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder004_60 Static mesh actor Bathroom_Block_out_Cylinder004_60 has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder005_62 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder005_62 Static mesh actor Bathroom_Block_out_Cylinder005_62 has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder006_64 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder006_64 Static mesh actor Bathroom_Block_out_Cylinder006_64 has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder007_66 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder007_66 Static mesh actor Bathroom_Block_out_Cylinder007_66 has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder008_68 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:594][131]MapCheck: Warning: Bathroom_Block_out_Cylinder008_68 Static mesh actor Bathroom_Block_out_Cylinder008_68 has NULL StaticMesh property 
+[2019.04.03-05.16.10:595][131]MapCheck: Warning: Bathroom_Block_out_Cylinder009_70 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:595][131]MapCheck: Warning: Bathroom_Block_out_Cylinder009_70 Static mesh actor Bathroom_Block_out_Cylinder009_70 has NULL StaticMesh property 
+[2019.04.03-05.16.10:595][131]MapCheck: Warning: Bathroom_Block_out_Cylinder010_72 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:595][131]MapCheck: Warning: Bathroom_Block_out_Cylinder010_72 Static mesh actor Bathroom_Block_out_Cylinder010_72 has NULL StaticMesh property 
+[2019.04.03-05.16.10:595][131]MapCheck: Warning: Bathroom_Block_out_Cylinder011_74 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:595][131]MapCheck: Warning: Bathroom_Block_out_Cylinder011_74 Static mesh actor Bathroom_Block_out_Cylinder011_74 has NULL StaticMesh property 
+[2019.04.03-05.16.10:595][131]MapCheck: Warning: Bathroom_Block_out_Cylinder012_76 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:595][131]MapCheck: Warning: Bathroom_Block_out_Cylinder012_76 Static mesh actor Bathroom_Block_out_Cylinder012_76 has NULL StaticMesh property 
+[2019.04.03-05.16.10:596][131]MapCheck: Warning: Bathroom_Block_out_Cylinder013_78 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:596][131]MapCheck: Warning: Bathroom_Block_out_Cylinder013_78 Static mesh actor Bathroom_Block_out_Cylinder013_78 has NULL StaticMesh property 
+[2019.04.03-05.16.10:596][131]MapCheck: Warning: Bathroom_Block_out_Cylinder014_80 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:596][131]MapCheck: Warning: Bathroom_Block_out_Cylinder014_80 Static mesh actor Bathroom_Block_out_Cylinder014_80 has NULL StaticMesh property 
+[2019.04.03-05.16.10:596][131]MapCheck: Warning: Bathroom_Block_out_Cylinder015_82 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:596][131]MapCheck: Warning: Bathroom_Block_out_Cylinder015_82 Static mesh actor Bathroom_Block_out_Cylinder015_82 has NULL StaticMesh property 
+[2019.04.03-05.16.10:597][131]MapCheck: Warning: Bathroom_Block_out_Cylinder016_84 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:597][131]MapCheck: Warning: Bathroom_Block_out_Cylinder016_84 Static mesh actor Bathroom_Block_out_Cylinder016_84 has NULL StaticMesh property 
+[2019.04.03-05.16.10:597][131]MapCheck: Warning: Bathroom_Block_out_Loft001_86 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:597][131]MapCheck: Warning: Bathroom_Block_out_Loft001_86 Static mesh actor Bathroom_Block_out_Loft001_86 has NULL StaticMesh property 
+[2019.04.03-05.16.10:597][131]MapCheck: Warning: Bathroom_Block_out_Plane002_90 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:597][131]MapCheck: Warning: Bathroom_Block_out_Plane002_90 Static mesh actor Bathroom_Block_out_Plane002_90 has NULL StaticMesh property 
+[2019.04.03-05.16.10:597][131]MapCheck: Warning: Bathroom_Block_out_Plane003_92 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:597][131]MapCheck: Warning: Bathroom_Block_out_Plane003_92 Static mesh actor Bathroom_Block_out_Plane003_92 has NULL StaticMesh property 
+[2019.04.03-05.16.10:598][131]MapCheck: Warning: Kettle_low_Handle_low_8 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:598][131]MapCheck: Warning: Kettle_low_Handle_low_8 Static mesh actor Kettle_low_Handle_low_8 has NULL StaticMesh property 
+[2019.04.03-05.16.10:598][131]MapCheck: Warning: Kettle_low_Kettle_low_10 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:598][131]MapCheck: Warning: Kettle_low_Kettle_low_10 Static mesh actor Kettle_low_Kettle_low_10 has NULL StaticMesh property 
+[2019.04.03-05.16.10:598][131]MapCheck: Warning: Kettle_low_Lid_Handle_low_12 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:598][131]MapCheck: Warning: Kettle_low_Lid_Handle_low_12 Static mesh actor Kettle_low_Lid_Handle_low_12 has NULL StaticMesh property 
+[2019.04.03-05.16.10:598][131]MapCheck: Warning: Kettle_low_Lid_low_14 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:599][131]MapCheck: Warning: Kettle_low_Lid_low_14 Static mesh actor Kettle_low_Lid_low_14 has NULL StaticMesh property 
+[2019.04.03-05.16.10:599][131]MapCheck: Warning: Kettle_low_Spout_low_16 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:599][131]MapCheck: Warning: Kettle_low_Spout_low_16 Static mesh actor Kettle_low_Spout_low_16 has NULL StaticMesh property 
+[2019.04.03-05.16.10:600][131]MapCheck: Warning: Bath_low_8 Static mesh actor has NULL StaticMesh property 
+[2019.04.03-05.16.10:600][131]MapCheck: Warning: Bath_low_8 Static mesh actor Bath_low_8 has NULL StaticMesh property 
+[2019.04.03-05.16.10:602][131]MapCheck: Map check complete: 0 Error(s), 72 Warning(s), took 24.036ms to complete.
+[2019.04.03-05.16.22:960][377]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.480 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.03-05.16.37:764][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.16.37:858][679]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-05.16.37:919][679]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-05.16.44:801][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mirror_low)
+[2019.04.03-05.16.47:998][895]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bathroom_Light_low)
+[2019.04.03-05.17.07:486][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.17.07:610][299]LogContentBrowser: Verbose: The majority of assets in the view are of type: StaticMesh
+[2019.04.03-05.17.34:818][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.17.34:940][580]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2019.04.03-05.18.01:214][936]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\brady\Desktop\Fort Unreal\Hand_Soap_low.FBX)
+[2019.04.03-05.18.01:343][936]LogFbx: Loading FBX Scene from C:\Users\brady\Desktop\Fort Unreal\Hand_Soap_low.FBX
+[2019.04.03-05.18.01:447][936]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-05.18.05:118][936]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-05.18.05:203][936]LogStaticMesh: Building static mesh Hand_Soap_low...
+[2019.04.03-05.18.05:236][936]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Soap_Bottle/Hand_Soap_low.Hand_Soap_low
+[2019.04.03-05.18.05:259][936]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.04.03-05.18.05:336][936]LogContentBrowser: Verbose: The majority of assets in the view are of type: StaticMesh
+[2019.04.03-05.18.07:188][985]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-05.18.07:237][985]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-05.18.16:660][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.18.18:012][265]LogActorFactory: Actor Factory created Hand_Soap_low
+[2019.04.03-05.18.19:495][295]LogActorFactory: Actor Factory created Hand_Soap_low
+[2019.04.03-05.18.31:079][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.18.36:612][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.18.36:893][660]LogActorFactory: Actor Factory created Soap_Tray_low
+[2019.04.03-05.18.38:534][694]LogActorFactory: Actor Factory created Soap_Tray_low
+[2019.04.03-05.19.04:622][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.19.20:955][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom_Cabinet_low)
+[2019.04.03-05.19.21:854][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hand_Soap_low)
+[2019.04.03-05.19.23:926][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.19.29:731][732]Cmd: TRANSACTION UNDO
+[2019.04.03-05.19.29:731][732]LogEditorTransaction: Undo Move Actors
+[2019.04.03-05.19.51:677][227]Cmd: TRANSACTION UNDO
+[2019.04.03-05.19.51:677][227]LogEditorTransaction: Undo Move Actors
+[2019.04.03-05.19.53:208][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.20.55:088][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tap_Nob_low)
+[2019.04.03-05.20.56:017][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tap_Nob_low)
+[2019.04.03-05.20.56:429][658]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Tap_Nob_low)
+[2019.04.03-05.20.56:573][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.21.00:842][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tap_Nob_low)
+[2019.04.03-05.21.11:411][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.21.17:404][ 77]Cmd: TRANSACTION UNDO
+[2019.04.03-05.21.17:405][ 77]LogEditorTransaction: Undo Move Actors
+[2019.04.03-05.22.02:405][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.22.55:084][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.22.55:201][389]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2019.04.03-05.23.45:293][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Tap_Nob_low)
+[2019.04.03-05.23.45:949][482]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Hot_Water_System_low)
+[2019.04.03-05.23.46:819][491]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Hot_Water_System_low)
+[2019.04.03-05.23.46:969][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.24.07:523][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tap_Nob_low2)
+[2019.04.03-05.24.19:003][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.24.59:750][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-05.25.18:790][403]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\brady\Desktop\Fort Unreal\Shower_Head_low.FBX)
+[2019.04.03-05.25.18:888][403]LogFbx: Loading FBX Scene from C:\Users\brady\Desktop\Fort Unreal\Shower_Head_low.FBX
+[2019.04.03-05.25.18:929][403]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-05.25.23:505][403]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-05.25.23:633][403]LogStaticMesh: Building static mesh Shower_Head_low...
+[2019.04.03-05.25.23:661][403]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Shower_Head/Shower_Head_low.Shower_Head_low
+[2019.04.03-05.25.23:691][403]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.04.03-05.25.23:813][403]LogContentBrowser: Verbose: The majority of assets in the view are of type: StaticMesh
+[2019.04.03-05.25.25:139][427]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-05.25.25:198][427]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-05.25.27:384][472]LogActorFactory: Actor Factory created Shower_Head_low
+[2019.04.03-05.25.28:851][500]LogActorFactory: Actor Factory created Shower_Head_low
+[2019.04.03-05.25.43:028][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-05.25.43:056][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap" FILE="../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Maps/BaseMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.03-05.25.43:834][757]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/BaseMapDF6956A24E0DB264F2B24BA8B4423654.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Maps/BaseMap.umap'
+[2019.04.03-05.25.43:891][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap_BuiltData" FILE="../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Maps/BaseMap_BuiltData.uasset" SILENT=true
+[2019.04.03-05.25.44:601][757]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/BaseMap_BuiltData88EEDE604498A0D71DFF3DBD3360B915.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Maps/BaseMap_BuiltData.uasset'
+[2019.04.03-05.25.58:788][ 45]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-05.25.58:831][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Ash_Tray/Ash_Tray_low" FILE="../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Ash_Tray/Ash_Tray_low.uasset" SILENT=true
+[2019.04.03-05.25.58:835][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Ash_Tray_low59974AC64067C7BB2FEED89E665A4B76.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Ash_Tray/Ash_Tray_low.uasset'
+[2019.04.03-05.25.58:843][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bath_Tub/Bath_low" FILE="../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bath_Tub/Bath_low.uasset" SILENT=true
+[2019.04.03-05.25.58:847][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Bath_lowA32F92FC42ACAD9A984FB0A76E272E03.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bath_Tub/Bath_low.uasset'
+[2019.04.03-05.25.59:665][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Bath_low_Material__47_BaseColorBC509E344DCA57923A0CB39688ADE50C.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bath_Tub/Textures/Bath_low_Material__47_BaseColor.uasset'
+[2019.04.03-05.26.01:745][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Bath_low_Material__47_Normal2A84AA17430A0CA9183648ACDE8C06B1.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bath_Tub/Textures/Bath_low_Material__47_Normal.uasset'
+[2019.04.03-05.26.04:947][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Bath_low_Material__47_OcclusionRB22079C446CDD7C9D1586D9074C50C11.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bath_Tub/Textures/Bath_low_Material__47_OcclusionRoughnessMetallic.uasset'
+[2019.04.03-05.26.04:974][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Bathroom_Cabinet_Door_low42ACA30C4AAFDB4EF608E199FF8831F3.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bathroom_Cabinet/Bathroom_Cabinet_Door_low.uasset'
+[2019.04.03-05.26.05:002][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Bathroom_Cabinet_low99DD561A44B31B270E98F4A85E256778.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bathroom_Cabinet/Bathroom_Cabinet_low.uasset'
+[2019.04.03-05.26.05:033][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Mirror_lowE6291709444765330F9E43918BB88C2E.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bathroom_Mirror/Mirror_low.uasset'
+[2019.04.03-05.26.05:062][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Bathroom_Tap6504FEB740647BDD569525902B52F653.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Bathroom_Tap/Bathroom_Tap.uasset'
+[2019.04.03-05.26.05:093][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Bathroom_Light_low4B62F77C4295A4497DA2F59400D35BFB.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Flourescent_Light/Bathroom_Light_low.uasset'
+[2019.04.03-05.26.05:124][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Fluorescent_Tube_lowD678EC8E4E75B40CA7BA3C8C145B6A90.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Flourescent_Light/Fluorescent_Tube_low.uasset'
+[2019.04.03-05.26.05:153][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Hot_Water_System_lowDEDBB7D945C17BB22FF1E0B892A3CE2D.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Hot_Water_System/Hot_Water_System_low.uasset'
+[2019.04.03-05.26.05:299][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Ironing_Board_lowD83499784A819B31E7CEA18AEF0FDD4D.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Ironing_Board/Ironing_Board_low.uasset'
+[2019.04.03-05.26.05:411][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Laundry_Basket_low1024C3F04B691441218F0BB91C88AD4B.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Laundry_Basket/Laundry_Basket_low.uasset'
+[2019.04.03-05.26.05:522][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Peddle_Bin_lowDC3191FA402FE4604DD4B593E2F801E3.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Peddle_Bin/Peddle_Bin_low.uasset'
+[2019.04.03-05.26.05:545][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Shower_Floor_lowB118B1E0497364FA6601779A4D775369.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Shower_Floor/Shower_Floor_low.uasset'
+[2019.04.03-05.26.05:663][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Shower_Head_lowE7239D624F955D5276E40E83384DD46B.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Shower_Head/Shower_Head_low.uasset'
+[2019.04.03-05.26.05:776][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Hand_Soap_lowA17E413E4BCB6E03227471827BB5A54D.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Soap_Bottle/Hand_Soap_low.uasset'
+[2019.04.03-05.26.05:799][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Soap_Tray_low77CA6BBD4E7CC617D2CB04A1FF40D3B6.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Soap_Tray/Soap_Tray_low.uasset'
+[2019.04.03-05.26.05:813][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Tap_Nob/Tap_Nob_low" FILE="../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Tap_Nob/Tap_Nob_low.uasset" SILENT=true
+[2019.04.03-05.26.05:825][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Tap_Nob_low0C9CFFE14F41A1A624359CA8C4565361.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Tap_Nob/Tap_Nob_low.uasset'
+[2019.04.03-05.26.05:857][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Towel_Rail_low54D7AAEC4E1101D69FD89E97F0664482.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Towel_Rail/Towel_Rail_low.uasset'
+[2019.04.03-05.26.05:891][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Washing_Machine_lowDC19733A467A4ED26FBE4794E0F2C5CA.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Washing_Machine/Washing_Machine_low.uasset'
+[2019.04.03-05.26.05:913][ 45]LogSavePackage: Moving '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Saved/Wine_Bottle_low6DBEC5754742CFA20CC228A6284F65FF.tmp' to '../../../../../../Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/Assets/Wine_Bottle/Wine_Bottle_low.uasset'
+[2019.04.03-05.26.06:015][ 45]LogSlate: Window 'Hikikomori - Unreal Editor' being destroyed
+[2019.04.03-05.26.06:016][ 45]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-05.26.06:753][ 46]Cmd: QUIT_EDITOR
+[2019.04.03-05.26.07:628][ 46]LogExit: Preparing to exit.
+[2019.04.03-05.26.07:997][ 46]LogDirectoryWatcher: A directory notification failed for 'C:/Users/brady/Documents/GitHub/hikikomori/Hikikomori_MAIN/Content/', and we were unable to create a new request.
+[2019.04.03-05.26.08:062][ 46]LogExit: Editor shut down
+[2019.04.03-05.26.08:062][ 46]LogExit: Transaction tracking system shut down
+[2019.04.03-05.26.08:702][ 46]LogExit: Object subsystem successfully closed.
+[2019.04.03-05.26.08:720][ 46]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.03-05.26.08:726][ 46]LogD3D11RHI: Shutdown
+[2019.04.03-05.26.08:726][ 46]LogD3D11RHI: CleanupD3DDevice
+[2019.04.03-05.26.08:733][ 46]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.03-05.26.08:780][ 46]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.04.03-05.26.08:781][ 46]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.04.03-05.26.08:781][ 46]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2019.04.03-05.26.08:781][ 46]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2019.04.03-05.26.08:781][ 46]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.04.03-05.26.08:781][ 46]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.04.03-05.26.08:781][ 46]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.04.03-05.26.08:787][ 46]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.04.03-05.26.08:787][ 46]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.04.03-05.26.08:787][ 46]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.04.03-05.26.08:788][ 46]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.04.03-05.26.08:788][ 46]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.03-05.26.08:788][ 46]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.03-05.26.08:789][ 46]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.03-05.26.08:790][ 46]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.03-05.26.08:790][ 46]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.03-05.26.08:791][ 46]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.03-05.26.08:792][ 46]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.03-05.26.08:793][ 46]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.03-05.26.08:793][ 46]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.03-05.26.08:793][ 46]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.03-05.26.08:794][ 46]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.03-05.26.08:794][ 46]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.03-05.26.08:794][ 46]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.03-05.26.08:794][ 46]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.03-05.26.08:794][ 46]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.03-05.26.09:737][ 46]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.03-05.26.09:737][ 46]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.03-05.26.09:737][ 46]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.03-05.26.09:737][ 46]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.03-05.26.09:737][ 46]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.03-05.26.09:737][ 46]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.03-05.26.09:738][ 46]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.03-05.26.09:738][ 46]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.03-05.26.09:738][ 46]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.03-05.26.09:738][ 46]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.03-05.26.09:738][ 46]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.03-05.26.09:738][ 46]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.03-05.26.09:739][ 46]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.03-05.26.09:739][ 46]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.03-05.26.09:739][ 46]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.03-05.26.09:739][ 46]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.03-05.26.09:739][ 46]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.03-05.26.09:739][ 46]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.03-05.26.09:739][ 46]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.03-05.26.09:740][ 46]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.03-05.26.09:740][ 46]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.03-05.26.09:741][ 46]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.03-05.26.09:741][ 46]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.03-05.26.09:796][ 46]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.03-05.26.09:796][ 46]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.03-05.26.09:803][ 46]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.03-05.26.09:806][ 46]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.03-05.26.09:807][ 46]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.03-05.26.09:807][ 46]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.03-05.26.09:808][ 46]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.03-05.26.09:809][ 46]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.03-05.26.09:809][ 46]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.03-05.26.09:809][ 46]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.03-05.26.09:811][ 46]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.03-05.26.09:814][ 46]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.03-05.26.09:814][ 46]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.03-05.26.09:815][ 46]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.03-05.26.09:816][ 46]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.03-05.26.09:816][ 46]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.03-05.26.09:816][ 46]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.03-05.26.09:817][ 46]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.03-05.26.09:817][ 46]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.03-05.26.09:817][ 46]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.03-05.26.09:817][ 46]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.03-05.26.09:817][ 46]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.03-05.26.09:818][ 46]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.03-05.26.09:819][ 46]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.03-05.26.09:828][ 46]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.03-05.26.09:943][ 46]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.03-05.26.09:944][ 46]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.03-05.26.09:944][ 46]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.03-05.26.09:944][ 46]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.03-05.26.09:944][ 46]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.03-05.26.09:950][ 46]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.03-05.26.09:950][ 46]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.03-05.26.09:950][ 46]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.03-05.26.09:950][ 46]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.03-05.26.09:951][ 46]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.03-05.26.09:952][ 46]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.03-05.26.09:953][ 46]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.03-05.26.09:954][ 46]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.03-05.26.09:954][ 46]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.03-05.26.09:954][ 46]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.03-05.26.09:954][ 46]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.03-05.26.09:954][ 46]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.03-05.26.09:954][ 46]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.03-05.26.09:954][ 46]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.03-05.26.09:954][ 46]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.03-05.26.10:055][ 46]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.03-05.26.10:156][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.03-05.26.10:156][ 46]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.03-05.26.10:156][ 46]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.03-05.26.10:156][ 46]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.03-05.26.10:157][ 46]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.03-05.26.10:157][ 46]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.03-05.26.10:158][ 46]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.03-05.26.10:158][ 46]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.03-05.26.10:158][ 46]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.03-05.26.10:159][ 46]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.03-05.26.10:159][ 46]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.03-05.26.10:159][ 46]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.03-05.26.10:161][ 46]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.03-05.26.10:161][ 46]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.03-05.26.10:161][ 46]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.03-05.26.10:161][ 46]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.03-05.26.10:161][ 46]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.03-05.26.10:161][ 46]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.03-05.26.10:161][ 46]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.03-05.26.10:164][ 46]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.03-05.26.10:171][ 46]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.03-05.26.10:171][ 46]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.03-05.26.10:171][ 46]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.03-05.26.10:172][ 46]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.03-05.26.10:172][ 46]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.03-05.26.10:172][ 46]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.03-05.26.10:172][ 46]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.03-05.26.10:172][ 46]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.03-05.26.10:172][ 46]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.03-05.26.10:173][ 46]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.03-05.26.10:173][ 46]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.03-05.26.10:173][ 46]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.03-05.26.10:173][ 46]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.03-05.26.10:174][ 46]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.03-05.26.10:174][ 46]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.03-05.26.10:175][ 46]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.03-05.26.10:177][ 46]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.03-05.26.10:177][ 46]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.03-05.26.10:178][ 46]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.03-05.26.10:178][ 46]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.03-05.26.10:180][ 46]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.03-05.26.10:181][ 46]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.03-05.26.10:182][ 46]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.03-05.26.10:182][ 46]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.03-05.26.10:182][ 46]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.03-05.26.10:183][ 46]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.03-05.26.10:183][ 46]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.03-05.26.10:196][ 46]LogDerivedDataCache: Shutdown
+[2019.04.03-05.26.10:196][ 46]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.03-05.26.10:196][ 46]LogXGEController: Cleaning working directory: C:/Users/brady/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-05.26.10:196][ 46]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.03-05.26.10:196][ 46]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.03-05.26.10:196][ 46]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.03-05.26.10:196][ 46]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.03-05.26.10:197][ 46]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.03-05.26.10:197][ 46]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.03-05.26.10:198][ 46]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.03-05.26.10:199][ 46]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.03-05.26.10:199][ 46]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.03-05.26.10:199][ 46]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.03-05.26.10:199][ 46]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.03-05.26.10:199][ 46]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.03-05.26.10:199][ 46]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.03-05.26.10:199][ 46]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.03-05.26.10:200][ 46]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.03-05.26.10:200][ 46]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.03-05.26.10:205][ 46]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.03-05.26.10:205][ 46]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.03-05.26.10:205][ 46]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.03-05.26.10:205][ 46]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.03-05.26.10:205][ 46]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.03-05.26.10:205][ 46]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.03-05.26.10:205][ 46]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.03-05.26.10:205][ 46]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.03-05.26.10:206][ 46]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.03-05.26.10:206][ 46]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.03-05.26.10:208][ 46]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.03-05.26.10:209][ 46]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.03-05.26.10:220][ 46]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.03-05.26.10:220][ 46]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.03-05.26.10:220][ 46]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD25F8D93-4C6D-84D0-947B-3FAF9774A503%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=ec61870041f3d7061942a2aeb96abb45%7C69e80d52c28e49e7967afa4a7c263165%7C2f367807-97b4-40ea-a766-e7f9ac26c376&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.03-05.26.10:248][ 46]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.03-05.26.10:250][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.03-05.26.10:250][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.03-05.26.10:250][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.03-05.26.10:251][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.03-05.26.10:251][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.03-05.26.10:251][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.03-05.26.10:251][ 46]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.03-05.26.10:251][ 46]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.03-05.26.10:251][ 46]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.03-05.26.10:251][ 46]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.03-05.26.10:252][ 46]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.03-05.26.10:252][ 46]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.03-05.26.10:252][ 46]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.03-05.26.10:253][ 46]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.03-05.26.10:253][ 46]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.03-05.26.10:253][ 46]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.03-05.26.10:253][ 46]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.03-05.26.10:254][ 46]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.03-05.26.10:254][ 46]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.03-05.26.10:255][ 46]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.03-05.26.10:262][ 46]LogExit: Exiting.
+[2019.04.03-05.26.10:295][ 46]Log file closed, 04/03/19 13:26:10
